@@ -1,0 +1,150 @@
+.container-fluid{
+   background-image: url('image/background.png')  !important;
+    
+}
+.left-image{
+
+    width: 434px;
+    margin-top: -642px;
+    margin-left: 319px;
+    position: relative;
+}
+.right-image{
+    width:385px;
+}
+ul>li{
+    display: inline;
+    padding-left: 1px;
+}
+.top-left {
+    position: relative;
+    top: -638px;
+    left: 325px;
+    color:white;
+    font-size:10px;
+  }
+  
+  .top-right {
+    position: relative;
+    top: -653px;
+    /* right: -87px; */
+    left: 470px;
+    color:white;
+    font-size:10px;
+  }
+  .button1{
+      background-color: white !important;
+      font-size:10px !important;
+      border-radius: 0 !important;
+      padding: 1px !important;
+  }
+  .button2{
+    font-size:10px !important;
+    border-radius: 0 !important;
+    padding: 1px !important;
+  }
+  .btn{
+      font-size:10px !important;
+      padding: 0 !important;
+  }
+  .centered-column1{
+    position: relative;
+    
+    margin-top: -651px;
+    margin-left: 377px;
+    color:#ccccff;
+    padding-left: 34px;
+}
+
+.heading{
+    font-size:12px !important;
+    font-weight:500;
+
+}
+.text{
+    font-size:8px !important;
+}
+.button3{
+    font-size:9px  !important;
+    border-radius: 0 !important;
+    background-color: #6666ff !important;
+    color:#ccccff !important;
+    border: 1px solid transparent !important;
+    padding: 1px !important;
+  }
+  .custmor{
+    margin-left: 409px;
+    position: relative;
+    margin-top: 151px;
+    color: grey;
+  }
+  p{
+      
+      margin:0 0 1px 0 !important;
+  }
+  .app-view{
+ 
+    margin-left: 573px;
+    position: relative;
+    margin-top: 76px;
+    color: grey;
+}
+.centered {
+    position: absolute;
+   
+    margin-top: -634px;
+    margin-left: 78px;
+    color: grey;
+  }
+  .app{
+    position: absolute;
+    margin-top: -400px;
+    margin-left: 78px;
+    color: #b3b3ff;
+  }
+  .heading1{
+    font-size:9px !important;
+    font-weight:500;
+
+}
+.card-column{
+    margin-left: 78px;
+    position: absolute;
+    margin-top: -191px;
+}
+.card-right{
+    height: 100px;
+    width: 92px;
+    margin: 8px !important;
+}
+.text-column{
+    font-size:8px;
+    padding: 6px 5px 0 5px !important;
+}
+.card-body{
+    padding:0 !important;
+}
+.text-deck{
+    padding-left: 17px;
+    font-size: 9px;
+    padding-top: 10px;
+    
+
+}
+.card-footer {
+     padding:0 !important; 
+   
+     border-top:0 !important; 
+}
+.img-card{
+    width:16px;
+    border-radius: 50%;
+    margin-top: 4px;
+    margin-right: 5px;
+}
+.small-card{
+    padding-left: 38px;
+    font-size: 8px !important;
+    padding-top: -9px;
+    margin-top: -7px !important;
+}

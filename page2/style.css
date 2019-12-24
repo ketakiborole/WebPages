@@ -1,0 +1,108 @@
+body{
+    background-color: 	#F1F6FA !important;
+}
+
+.a-img{
+    width:24px;
+}
+.submit{
+color:deepskyblue !important;
+border:none !important;
+background-color: white !important;
+border-radius: 1.25rem !important;
+margin-right: 10px!important;
+}
+.sign{
+    color:black !important;
+    border:none !important;
+background-color: white !important;
+border-radius: 1.25rem !important;
+}
+.form-inline{
+    margin-right: 5%;
+}
+h1{
+    text-align: center;
+    margin-top: 8% !important;
+}
+.help{
+    text-align: center;
+}
+
+.input-group-text{
+    background-color: white !important;
+    border-left:none !important;
+    border-bottom-right-radius: 1.25rem !important;
+    border-top-right-radius: 1.25rem !important;
+}
+.form-control{
+    border-bottom-left-radius: 1.25rem !important;
+    border-top-left-radius: 1.25rem !important;
+    border-right:none !important;
+}
+.input-group{
+    width:50% !important;
+    margin-left:26% !important;
+    margin-top: 5%;
+}
+.card-row{
+    align-items: center !important;
+    text-align: center;
+}
+.card1{
+    margin-left: 22% !important;
+    width: 60%;
+    height: 167px;
+    margin-top: 4%;
+}
+.icon2{
+    color:deepskyblue !important;
+    margin-top: 10%;
+    font-size: 50px !important;
+}
+ul{
+    list-style: none;
+
+    width: 61%;
+    margin-left: 20%;
+    margin-top: 4% !important;
+}
+ul>li{
+    background-color: white;
+    margin-bottom: 3% !important;
+   padding-bottom:2px;
+}
+.list-icon{
+    color: deepskyblue;
+    font-size: 25px !important;
+    padding-top: 10px;
+    padding-left: 20px;
+    vertical-align: middle !important; 
+}
+.heading{
+    color: deepskyblue;
+    font-weight: 600;
+    font-size: 17px;
+    padding-left: 12px;
+}
+.list-p{
+    padding-left:58px;
+    margin-top: -1%;
+}
+.list-p1{
+    padding-left:54px;
+    margin-top: -1%;
+}
+.list-p2{
+    padding-left:51px;
+    margin-top: -1%;
+
+}
+.icon-right{
+    
+    display: inline-block;
+    float: right;
+    color: grey;
+    padding-top: 24px;
+    padding-right: 10px;
+}

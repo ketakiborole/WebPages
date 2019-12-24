@@ -1,0 +1,19 @@
+.image-bg{
+    width:100% !important;
+    height: 500px !important;
+}
+.centered{
+    margin-top: -29%;
+    margin-left: 43%;
+    color: white;
+}
+.team-row>h1{
+    margin:0 0 1% 40% !important;
+}
+.career-form{
+    width:82%;
+    margin:2% 0 2% 9%;
+}
+.team-row>p{
+    margin: 0 7% 1% 8%;
+}
